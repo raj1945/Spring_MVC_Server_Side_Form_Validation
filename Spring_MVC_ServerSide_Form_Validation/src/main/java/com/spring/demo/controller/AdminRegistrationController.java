@@ -28,8 +28,7 @@ public class AdminRegistrationController {
 	public String saveTeacherByAdmin(@Valid @ModelAttribute("student") Student student, BindingResult bindingResult) {
 
 		if (bindingResult.hasErrors()) {
-			return "registration"; // it returns the error messages to the same
-									// page
+			return "registration"; 
 		}
 
 		return "redirect:/register";
