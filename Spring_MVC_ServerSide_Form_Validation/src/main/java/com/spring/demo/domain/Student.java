@@ -108,12 +108,6 @@ public class Student {
 		this.className = className;
 	}
 
-	public Parent getParent() {
-		return parent;
-	}
-
-	public void setParent(Parent parent) {
-		this.parent = parent;
-	}
+	
 
 }
