@@ -8,4 +8,4 @@ Installation steps:
 
 For the test:
 
-Click on the link http://localhost:8080/demo/
+Click on the link http://localhost:8080/demo/gkhjvhjvh
